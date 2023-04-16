@@ -1,0 +1,104 @@
+body{
+    background-color: rgba(146, 239, 239, 0);
+    text-align: center;
+}
+.center{
+  padding-bottom: 100px;
+  padding-top: 20px;
+}
+.content{display: block;
+
+list-style-position: inside;}
+.content li{
+  padding-left: 10px;
+}
+  .brothersimg{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 20px;
+  }
+  h1{color:rgb(32, 54, 54); 
+    padding: 40px;
+    font-family: 'Press Start 2P', cursive;
+  }
+  h2{font-family: 'Press Start 2P', cursive;}
+  .intro{
+    font-size: 20px;
+    padding: 40px;
+  }
+  #early{
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .earlyinfo{
+    width: 80%;
+    padding: 20px;
+    margin-left: 10%;
+    background-color: rgb(233, 230, 230);
+  }
+  #young{
+    padding: 40px;
+  }
+  .youngscientist{
+    display: flex;
+    float: left;
+  }
+  .scientistimg{
+    width: 40%;
+    height: 300px;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 20px;
+    margin-bottom: 140px;
+  }
+  .scientistp{
+    width: 42%;
+    height: auto;
+    margin-left: 100px;
+    margin-right: 50px;
+    padding-top: 100px;
+  }
+
+.btn1{
+  padding: 20px;
+  text-decoration: none;
+  background-color: aqua;
+  font-family:'Press Start 2P', cursive;
+  border-radius: 10px;
+}
+
+#stripe{
+  padding: 20px;
+}
+  .Stripe{border-style:double  ;
+  border-color: aqua;
+border-width: 20px ;
+border-radius: 20px;
+range : size 200px; ;}
+
+#Leon{
+  padding: 40px;
+}
+
+#topten{display: block;
+  
+  list-style-position: inside;
+
+}
+#conclusion{
+  padding: 60px;
+  padding-bottom: 40px;
+}
+#conc{
+  width: 50%;
+  margin-left: 25%;
+  padding: 50px;
+}
+#end{
+  background-color: rgba(77, 74, 74, 0.126);
+}
