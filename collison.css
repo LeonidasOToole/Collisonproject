@@ -91,16 +91,7 @@ range : size 200px; ;}
   padding: 40px;
 }
 
-@media screen and (max-width: 600px){
-    .youngscientist{
-        flex-direction: column-reverse;
-    }
-    .scientistimg{
-    width: 70vw;
-    height: 30vh;
-    margin-bottom:0;
-}
-}
+
 
 #topten{display: block;
   
@@ -118,4 +109,20 @@ range : size 200px; ;}
 }
 #end{
   background-color: rgba(77, 74, 74, 0.126);
+}
+
+@media screen and (max-width: 600px){
+    .youngscientist{
+        flex-direction: column-reverse;
+    }
+    .scientistimg{
+    width: 70vw;
+    height: 30vh;
+    margin-bottom:0;
+    }
+    .scientistp{width: 100%;
+    height: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+        padding-top: 0px;}
 }
