@@ -131,4 +131,10 @@ range : size 200px; ;}
     #conc{width: 100%; 
     margin-left: 0; 
     padding: 5px;}
+    
+    .earlyinfo{
+        width: 100%;
+    padding: 5px;
+    margin-left: 0;
+    }
 }
