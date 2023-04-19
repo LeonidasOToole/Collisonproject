@@ -95,6 +95,11 @@ range : size 200px; ;}
     .youngscientist{
         flex-direction: column-reverse;
     }
+    .scientistimg{
+    width: 70vw;
+    height: 30vh;
+    margin-bottom:0;
+}
 }
 
 #topten{display: block;
