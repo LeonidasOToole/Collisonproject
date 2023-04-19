@@ -8,8 +8,13 @@ body{
     display:block;
     margin:auto;
 }
-.content{display: block;
-list-style-position: inside;}
+.content{display: flex;
+    list-style-position: inside;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: baseline;}
 
 .content li{
   padding-left: 10px;
