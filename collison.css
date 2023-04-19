@@ -127,4 +127,8 @@ range : size 200px; ;}
     margin-right: 0px;
         padding-top: 10px;
     padding-bottom:10px;}
+    
+    #conc{width: 100%; 
+    margin-left: 0; 
+    padding: 5px;}
 }
