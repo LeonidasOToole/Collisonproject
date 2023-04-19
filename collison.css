@@ -16,9 +16,7 @@ body{
     justify-content: center;
     align-items: baseline;}
 
-.content li{
-  padding-left: 10px;
-}
+
   .brothersimg{
     width: 50%;
     height: auto;
@@ -33,6 +31,7 @@ body{
     font-family: 'Press Start 2P', cursive;
   }
   h2{font-family: 'Press Start 2P', cursive;}
+
   .intro{
     font-size: 20px;
     padding: 40px;
@@ -90,6 +89,12 @@ range : size 200px; ;}
 
 #Leon{
   padding: 40px;
+}
+
+@media screen and (max-width: 600px){
+    .youngscientist{
+        flex-direction: column-reverse;
+    }
 }
 
 #topten{display: block;
