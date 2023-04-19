@@ -5,10 +5,12 @@ body{
 .center{
   padding-bottom: 100px;
   padding-top: 20px;
+    display:block;
+    margin:auto;
 }
 .content{display: block;
-
 list-style-position: inside;}
+
 .content li{
   padding-left: 10px;
 }
