@@ -138,3 +138,21 @@ range : size 200px; ;}
     margin-left: 0;
     }
 }
+@media screen and (max-width: 3100px)
+{.youngscientist{
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+.scientistimg{
+  width: 40vw;
+  height: auto;
+}
+.scientistp{
+  width: 50vw;
+  display: block;
+  margin: auto;
+  padding: 40px;
+}
+
+}
